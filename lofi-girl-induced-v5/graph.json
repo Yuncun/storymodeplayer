@@ -1,0 +1,3027 @@
+{
+  "character_name": "lofi-girl-induced-v5",
+  "nodes": {
+    "canon_0": {
+      "id": "canon_0",
+      "name": "canon_j0_p0036",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "581bb821",
+          "content_path": "nodes/canon/canon_0/581bb821.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "canon",
+            "loop_source_cycle": 10,
+            "junction_idx": 0,
+            "phase_position": 36,
+            "cluster_id": 1,
+            "source_frame_1idx": 11937,
+            "phase_spread": 0.005776941776275635
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "581bb821",
+      "weights": {
+        "pc1": -0.1152169480919838,
+        "pc2": 0.6092729568481445
+      },
+      "image_path": "nodes/canon/canon_0/581bb821.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "canon",
+        "loop_source_cycle": 10,
+        "junction_idx": 0,
+        "phase_position": 36,
+        "cluster_id": 1,
+        "source_frame_1idx": 11937,
+        "phase_spread": 0.005776941776275635
+      }
+    },
+    "canon_1": {
+      "id": "canon_1",
+      "name": "canon_j1_p0219",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "19c959c6",
+          "content_path": "nodes/canon/canon_1/19c959c6.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "canon",
+            "loop_source_cycle": 10,
+            "junction_idx": 1,
+            "phase_position": 219,
+            "cluster_id": 6,
+            "source_frame_1idx": 12120,
+            "phase_spread": 0.005704104900360107
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "19c959c6",
+      "weights": {
+        "pc1": 0.26735860109329224,
+        "pc2": 0.6964194178581238
+      },
+      "image_path": "nodes/canon/canon_1/19c959c6.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "canon",
+        "loop_source_cycle": 10,
+        "junction_idx": 1,
+        "phase_position": 219,
+        "cluster_id": 6,
+        "source_frame_1idx": 12120,
+        "phase_spread": 0.005704104900360107
+      }
+    },
+    "canon_2": {
+      "id": "canon_2",
+      "name": "canon_j2_p0431",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "c14f27b5",
+          "content_path": "nodes/canon/canon_2/c14f27b5.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "canon",
+            "loop_source_cycle": 10,
+            "junction_idx": 2,
+            "phase_position": 431,
+            "cluster_id": 1,
+            "source_frame_1idx": 12332,
+            "phase_spread": 0.0048940181732177734
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "c14f27b5",
+      "weights": {
+        "pc1": -0.1152169480919838,
+        "pc2": 0.6092729568481445
+      },
+      "image_path": "nodes/canon/canon_2/c14f27b5.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "canon",
+        "loop_source_cycle": 10,
+        "junction_idx": 2,
+        "phase_position": 431,
+        "cluster_id": 1,
+        "source_frame_1idx": 12332,
+        "phase_spread": 0.0048940181732177734
+      }
+    },
+    "canon_3": {
+      "id": "canon_3",
+      "name": "canon_j3_p0524",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "40303a2f",
+          "content_path": "nodes/canon/canon_3/40303a2f.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "canon",
+            "loop_source_cycle": 10,
+            "junction_idx": 3,
+            "phase_position": 524,
+            "cluster_id": 4,
+            "source_frame_1idx": 12425,
+            "phase_spread": 0.00540393590927124
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "40303a2f",
+      "weights": {
+        "pc1": -0.08323747664690018,
+        "pc2": 0.5336405634880066
+      },
+      "image_path": "nodes/canon/canon_3/40303a2f.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "canon",
+        "loop_source_cycle": 10,
+        "junction_idx": 3,
+        "phase_position": 524,
+        "cluster_id": 4,
+        "source_frame_1idx": 12425,
+        "phase_spread": 0.00540393590927124
+      }
+    },
+    "canon_4": {
+      "id": "canon_4",
+      "name": "canon_j4_p0727",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "6fc3775c",
+          "content_path": "nodes/canon/canon_4/6fc3775c.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "canon",
+            "loop_source_cycle": 10,
+            "junction_idx": 4,
+            "phase_position": 727,
+            "cluster_id": 4,
+            "source_frame_1idx": 12628,
+            "phase_spread": 0.005884826183319092
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "6fc3775c",
+      "weights": {
+        "pc1": -0.08323747664690018,
+        "pc2": 0.5336405634880066
+      },
+      "image_path": "nodes/canon/canon_4/6fc3775c.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "canon",
+        "loop_source_cycle": 10,
+        "junction_idx": 4,
+        "phase_position": 727,
+        "cluster_id": 4,
+        "source_frame_1idx": 12628,
+        "phase_spread": 0.005884826183319092
+      }
+    },
+    "canon_5": {
+      "id": "canon_5",
+      "name": "canon_j5_p0838",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "125acc0b",
+          "content_path": "nodes/canon/canon_5/125acc0b.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "canon",
+            "loop_source_cycle": 10,
+            "junction_idx": 5,
+            "phase_position": 838,
+            "cluster_id": 6,
+            "source_frame_1idx": 12739,
+            "phase_spread": 0.0065315961837768555
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "125acc0b",
+      "weights": {
+        "pc1": 0.26735860109329224,
+        "pc2": 0.6964194178581238
+      },
+      "image_path": "nodes/canon/canon_5/125acc0b.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "canon",
+        "loop_source_cycle": 10,
+        "junction_idx": 5,
+        "phase_position": 838,
+        "cluster_id": 6,
+        "source_frame_1idx": 12739,
+        "phase_spread": 0.0065315961837768555
+      }
+    },
+    "canon_6": {
+      "id": "canon_6",
+      "name": "canon_j6_p1000",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "5bd67655",
+          "content_path": "nodes/canon/canon_6/5bd67655.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "canon",
+            "loop_source_cycle": 10,
+            "junction_idx": 6,
+            "phase_position": 1000,
+            "cluster_id": 1,
+            "source_frame_1idx": 12901,
+            "phase_spread": 0.006040990352630615
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "5bd67655",
+      "weights": {
+        "pc1": -0.1152169480919838,
+        "pc2": 0.6092729568481445
+      },
+      "image_path": "nodes/canon/canon_6/5bd67655.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "canon",
+        "loop_source_cycle": 10,
+        "junction_idx": 6,
+        "phase_position": 1000,
+        "cluster_id": 1,
+        "source_frame_1idx": 12901,
+        "phase_spread": 0.006040990352630615
+      }
+    },
+    "canon_7": {
+      "id": "canon_7",
+      "name": "canon_j7_p1160",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "220e0687",
+          "content_path": "nodes/canon/canon_7/220e0687.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "canon",
+            "loop_source_cycle": 10,
+            "junction_idx": 7,
+            "phase_position": 1160,
+            "cluster_id": 4,
+            "source_frame_1idx": 13061,
+            "phase_spread": 0.006875514984130859
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "220e0687",
+      "weights": {
+        "pc1": -0.08323747664690018,
+        "pc2": 0.5336405634880066
+      },
+      "image_path": "nodes/canon/canon_7/220e0687.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "canon",
+        "loop_source_cycle": 10,
+        "junction_idx": 7,
+        "phase_position": 1160,
+        "cluster_id": 4,
+        "source_frame_1idx": 13061,
+        "phase_spread": 0.006875514984130859
+      }
+    },
+    "early_0": {
+      "id": "early_0",
+      "name": "early_j0_p0036",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "54e24790",
+          "content_path": "nodes/early/early_0/54e24790.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "early",
+            "loop_source_cycle": 0,
+            "junction_idx": 0,
+            "phase_position": 36,
+            "cluster_id": 1,
+            "source_frame_1idx": 37,
+            "phase_spread": 0.005776941776275635
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "54e24790",
+      "weights": {
+        "pc1": -0.1152169480919838,
+        "pc2": 0.6092729568481445
+      },
+      "image_path": "nodes/early/early_0/54e24790.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "early",
+        "loop_source_cycle": 0,
+        "junction_idx": 0,
+        "phase_position": 36,
+        "cluster_id": 1,
+        "source_frame_1idx": 37,
+        "phase_spread": 0.005776941776275635
+      }
+    },
+    "early_1": {
+      "id": "early_1",
+      "name": "early_j1_p0219",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "8a49137f",
+          "content_path": "nodes/early/early_1/8a49137f.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "early",
+            "loop_source_cycle": 0,
+            "junction_idx": 1,
+            "phase_position": 219,
+            "cluster_id": 6,
+            "source_frame_1idx": 220,
+            "phase_spread": 0.005704104900360107
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "8a49137f",
+      "weights": {
+        "pc1": 0.26735860109329224,
+        "pc2": 0.6964194178581238
+      },
+      "image_path": "nodes/early/early_1/8a49137f.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "early",
+        "loop_source_cycle": 0,
+        "junction_idx": 1,
+        "phase_position": 219,
+        "cluster_id": 6,
+        "source_frame_1idx": 220,
+        "phase_spread": 0.005704104900360107
+      }
+    },
+    "early_2": {
+      "id": "early_2",
+      "name": "early_j2_p0431",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "05f0ff98",
+          "content_path": "nodes/early/early_2/05f0ff98.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "early",
+            "loop_source_cycle": 0,
+            "junction_idx": 2,
+            "phase_position": 431,
+            "cluster_id": 1,
+            "source_frame_1idx": 432,
+            "phase_spread": 0.0048940181732177734
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "05f0ff98",
+      "weights": {
+        "pc1": -0.1152169480919838,
+        "pc2": 0.6092729568481445
+      },
+      "image_path": "nodes/early/early_2/05f0ff98.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "early",
+        "loop_source_cycle": 0,
+        "junction_idx": 2,
+        "phase_position": 431,
+        "cluster_id": 1,
+        "source_frame_1idx": 432,
+        "phase_spread": 0.0048940181732177734
+      }
+    },
+    "early_3": {
+      "id": "early_3",
+      "name": "early_j3_p0524",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "a87bdfca",
+          "content_path": "nodes/early/early_3/a87bdfca.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "early",
+            "loop_source_cycle": 0,
+            "junction_idx": 3,
+            "phase_position": 524,
+            "cluster_id": 4,
+            "source_frame_1idx": 525,
+            "phase_spread": 0.00540393590927124
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "a87bdfca",
+      "weights": {
+        "pc1": -0.08323747664690018,
+        "pc2": 0.5336405634880066
+      },
+      "image_path": "nodes/early/early_3/a87bdfca.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "early",
+        "loop_source_cycle": 0,
+        "junction_idx": 3,
+        "phase_position": 524,
+        "cluster_id": 4,
+        "source_frame_1idx": 525,
+        "phase_spread": 0.00540393590927124
+      }
+    },
+    "early_4": {
+      "id": "early_4",
+      "name": "early_j4_p0727",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "2056bb2b",
+          "content_path": "nodes/early/early_4/2056bb2b.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "early",
+            "loop_source_cycle": 0,
+            "junction_idx": 4,
+            "phase_position": 727,
+            "cluster_id": 4,
+            "source_frame_1idx": 728,
+            "phase_spread": 0.005884826183319092
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "2056bb2b",
+      "weights": {
+        "pc1": -0.08323747664690018,
+        "pc2": 0.5336405634880066
+      },
+      "image_path": "nodes/early/early_4/2056bb2b.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "early",
+        "loop_source_cycle": 0,
+        "junction_idx": 4,
+        "phase_position": 727,
+        "cluster_id": 4,
+        "source_frame_1idx": 728,
+        "phase_spread": 0.005884826183319092
+      }
+    },
+    "early_5": {
+      "id": "early_5",
+      "name": "early_j5_p0838",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "a5c3dd21",
+          "content_path": "nodes/early/early_5/a5c3dd21.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "early",
+            "loop_source_cycle": 0,
+            "junction_idx": 5,
+            "phase_position": 838,
+            "cluster_id": 6,
+            "source_frame_1idx": 839,
+            "phase_spread": 0.0065315961837768555
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "a5c3dd21",
+      "weights": {
+        "pc1": 0.26735860109329224,
+        "pc2": 0.6964194178581238
+      },
+      "image_path": "nodes/early/early_5/a5c3dd21.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "early",
+        "loop_source_cycle": 0,
+        "junction_idx": 5,
+        "phase_position": 838,
+        "cluster_id": 6,
+        "source_frame_1idx": 839,
+        "phase_spread": 0.0065315961837768555
+      }
+    },
+    "early_6": {
+      "id": "early_6",
+      "name": "early_j6_p1000",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "1bd1ec16",
+          "content_path": "nodes/early/early_6/1bd1ec16.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "early",
+            "loop_source_cycle": 0,
+            "junction_idx": 6,
+            "phase_position": 1000,
+            "cluster_id": 1,
+            "source_frame_1idx": 1001,
+            "phase_spread": 0.006040990352630615
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "1bd1ec16",
+      "weights": {
+        "pc1": -0.1152169480919838,
+        "pc2": 0.6092729568481445
+      },
+      "image_path": "nodes/early/early_6/1bd1ec16.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "early",
+        "loop_source_cycle": 0,
+        "junction_idx": 6,
+        "phase_position": 1000,
+        "cluster_id": 1,
+        "source_frame_1idx": 1001,
+        "phase_spread": 0.006040990352630615
+      }
+    },
+    "early_7": {
+      "id": "early_7",
+      "name": "early_j7_p1160",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "3762fd32",
+          "content_path": "nodes/early/early_7/3762fd32.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "early",
+            "loop_source_cycle": 0,
+            "junction_idx": 7,
+            "phase_position": 1160,
+            "cluster_id": 4,
+            "source_frame_1idx": 1161,
+            "phase_spread": 0.006875514984130859
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "3762fd32",
+      "weights": {
+        "pc1": -0.08323747664690018,
+        "pc2": 0.5336405634880066
+      },
+      "image_path": "nodes/early/early_7/3762fd32.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "early",
+        "loop_source_cycle": 0,
+        "junction_idx": 7,
+        "phase_position": 1160,
+        "cluster_id": 4,
+        "source_frame_1idx": 1161,
+        "phase_spread": 0.006875514984130859
+      }
+    },
+    "late_0": {
+      "id": "late_0",
+      "name": "late_j0_p0036",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "d9874e33",
+          "content_path": "nodes/late/late_0/d9874e33.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "late",
+            "loop_source_cycle": 25,
+            "junction_idx": 0,
+            "phase_position": 36,
+            "cluster_id": 1,
+            "source_frame_1idx": 29787,
+            "phase_spread": 0.005776941776275635
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "d9874e33",
+      "weights": {
+        "pc1": -0.1152169480919838,
+        "pc2": 0.6092729568481445
+      },
+      "image_path": "nodes/late/late_0/d9874e33.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "late",
+        "loop_source_cycle": 25,
+        "junction_idx": 0,
+        "phase_position": 36,
+        "cluster_id": 1,
+        "source_frame_1idx": 29787,
+        "phase_spread": 0.005776941776275635
+      }
+    },
+    "late_1": {
+      "id": "late_1",
+      "name": "late_j1_p0219",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "45efbd5f",
+          "content_path": "nodes/late/late_1/45efbd5f.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "late",
+            "loop_source_cycle": 25,
+            "junction_idx": 1,
+            "phase_position": 219,
+            "cluster_id": 6,
+            "source_frame_1idx": 29970,
+            "phase_spread": 0.005704104900360107
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "45efbd5f",
+      "weights": {
+        "pc1": 0.26735860109329224,
+        "pc2": 0.6964194178581238
+      },
+      "image_path": "nodes/late/late_1/45efbd5f.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "late",
+        "loop_source_cycle": 25,
+        "junction_idx": 1,
+        "phase_position": 219,
+        "cluster_id": 6,
+        "source_frame_1idx": 29970,
+        "phase_spread": 0.005704104900360107
+      }
+    },
+    "late_2": {
+      "id": "late_2",
+      "name": "late_j2_p0431",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "0043a704",
+          "content_path": "nodes/late/late_2/0043a704.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "late",
+            "loop_source_cycle": 25,
+            "junction_idx": 2,
+            "phase_position": 431,
+            "cluster_id": 1,
+            "source_frame_1idx": 30182,
+            "phase_spread": 0.0048940181732177734
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "0043a704",
+      "weights": {
+        "pc1": -0.1152169480919838,
+        "pc2": 0.6092729568481445
+      },
+      "image_path": "nodes/late/late_2/0043a704.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "late",
+        "loop_source_cycle": 25,
+        "junction_idx": 2,
+        "phase_position": 431,
+        "cluster_id": 1,
+        "source_frame_1idx": 30182,
+        "phase_spread": 0.0048940181732177734
+      }
+    },
+    "late_3": {
+      "id": "late_3",
+      "name": "late_j3_p0524",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "d4ae9bc4",
+          "content_path": "nodes/late/late_3/d4ae9bc4.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "late",
+            "loop_source_cycle": 25,
+            "junction_idx": 3,
+            "phase_position": 524,
+            "cluster_id": 4,
+            "source_frame_1idx": 30275,
+            "phase_spread": 0.00540393590927124
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "d4ae9bc4",
+      "weights": {
+        "pc1": -0.08323747664690018,
+        "pc2": 0.5336405634880066
+      },
+      "image_path": "nodes/late/late_3/d4ae9bc4.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "late",
+        "loop_source_cycle": 25,
+        "junction_idx": 3,
+        "phase_position": 524,
+        "cluster_id": 4,
+        "source_frame_1idx": 30275,
+        "phase_spread": 0.00540393590927124
+      }
+    },
+    "late_4": {
+      "id": "late_4",
+      "name": "late_j4_p0727",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "980ace86",
+          "content_path": "nodes/late/late_4/980ace86.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "late",
+            "loop_source_cycle": 25,
+            "junction_idx": 4,
+            "phase_position": 727,
+            "cluster_id": 4,
+            "source_frame_1idx": 30478,
+            "phase_spread": 0.005884826183319092
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "980ace86",
+      "weights": {
+        "pc1": -0.08323747664690018,
+        "pc2": 0.5336405634880066
+      },
+      "image_path": "nodes/late/late_4/980ace86.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "late",
+        "loop_source_cycle": 25,
+        "junction_idx": 4,
+        "phase_position": 727,
+        "cluster_id": 4,
+        "source_frame_1idx": 30478,
+        "phase_spread": 0.005884826183319092
+      }
+    },
+    "late_5": {
+      "id": "late_5",
+      "name": "late_j5_p0838",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "9467c0c6",
+          "content_path": "nodes/late/late_5/9467c0c6.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "late",
+            "loop_source_cycle": 25,
+            "junction_idx": 5,
+            "phase_position": 838,
+            "cluster_id": 6,
+            "source_frame_1idx": 30589,
+            "phase_spread": 0.0065315961837768555
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "9467c0c6",
+      "weights": {
+        "pc1": 0.26735860109329224,
+        "pc2": 0.6964194178581238
+      },
+      "image_path": "nodes/late/late_5/9467c0c6.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "late",
+        "loop_source_cycle": 25,
+        "junction_idx": 5,
+        "phase_position": 838,
+        "cluster_id": 6,
+        "source_frame_1idx": 30589,
+        "phase_spread": 0.0065315961837768555
+      }
+    },
+    "late_6": {
+      "id": "late_6",
+      "name": "late_j6_p1000",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "581f8362",
+          "content_path": "nodes/late/late_6/581f8362.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "late",
+            "loop_source_cycle": 25,
+            "junction_idx": 6,
+            "phase_position": 1000,
+            "cluster_id": 1,
+            "source_frame_1idx": 30751,
+            "phase_spread": 0.006040990352630615
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "581f8362",
+      "weights": {
+        "pc1": -0.1152169480919838,
+        "pc2": 0.6092729568481445
+      },
+      "image_path": "nodes/late/late_6/581f8362.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "late",
+        "loop_source_cycle": 25,
+        "junction_idx": 6,
+        "phase_position": 1000,
+        "cluster_id": 1,
+        "source_frame_1idx": 30751,
+        "phase_spread": 0.006040990352630615
+      }
+    },
+    "late_7": {
+      "id": "late_7",
+      "name": "late_j7_p1160",
+      "prompt": "",
+      "x": 0.0,
+      "y": 0.0,
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "7698a511",
+          "content_path": "nodes/late/late_7/7698a511.png",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 tri-loop",
+            "loop_name": "late",
+            "loop_source_cycle": 25,
+            "junction_idx": 7,
+            "phase_position": 1160,
+            "cluster_id": 4,
+            "source_frame_1idx": 30911,
+            "phase_spread": 0.006875514984130859
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "7698a511",
+      "weights": {
+        "pc1": -0.08323747664690018,
+        "pc2": 0.5336405634880066
+      },
+      "image_path": "nodes/late/late_7/7698a511.png",
+      "resolved_prompts": {
+        "induced_from": "v5 tri-loop",
+        "loop_name": "late",
+        "loop_source_cycle": 25,
+        "junction_idx": 7,
+        "phase_position": 1160,
+        "cluster_id": 4,
+        "source_frame_1idx": 30911,
+        "phase_spread": 0.006875514984130859
+      }
+    },
+    "b3b5536e": {
+      "id": "b3b5536e",
+      "name": "look_over_surprise",
+      "prompt": "Turn the girl to face the camera directly: head and shoulders pivoted three-quarters toward the viewer with mild surprise \u2014 brows lifted, eyes wide, mouth slightly open in a small 'oh' as if she just heard a doorbell. Her hair stays in a single high ponytail at the back; her left hand still rests on the notebook holding the pencil. Keep her head the same size as in the source \u2014 do not zoom in or enlarge the face. Do not change the sky, room, colors, lighting, framing, or anything else \u2014 only her body, head, and expression change.",
+      "x": 350.0,
+      "y": -600.0,
+      "created_at": "2026-05-26T10:29:37.231620+00:00",
+      "takes": [
+        {
+          "id": "5a22e9ae",
+          "content_path": "nodes/doorbell/b3b5536e/5a22e9ae.png",
+          "created_at": "2026-05-26T13:23:45.065952+00:00",
+          "source": "generated",
+          "metadata": {
+            "repose": "Turn the girl to face the camera directly: head and shoulders pivoted three-quarters toward the viewer with mild surprise \u2014 brows lifted, eyes wide, mouth slightly open in a small 'oh' as if she just heard a doorbell. Her hair stays in a single high ponytail at the back; her left hand still rests on the notebook holding the pencil. Do not change the sky, room, colors, lighting, or anything else \u2014 only her body, head, and expression change.",
+            "backend": "comfyui",
+            "generation_params": {
+              "workflow": "Qwen Repose GGUF",
+              "model": "qwen-image-edit-2511-Q8_0.gguf",
+              "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+              "vae": "qwen_image_vae.safetensors",
+              "sampler": "euler",
+              "scheduler": "simple",
+              "steps": 20,
+              "cfg": 4.0,
+              "denoise": 1.0,
+              "seed": 1736456081,
+              "port_values": {
+                "reference_image": "pixterm_e8049a54.png",
+                "prompt": "Turn the girl to face the camera directly: head and shoulders pivoted three-quarters toward the viewer with mild surprise \u2014 brows lifted, eyes wide, mouth slightly open in a small 'oh' as if she just heard a doorbell. Her hair stays in a single high ponytail at the back; her left hand still rests on the notebook holding the pencil. Do not change the sky, room, colors, lighting, or anything else \u2014 only her body, head, and expression change.",
+                "seed": 1736456081,
+                "cfg": 4.0,
+                "steps": 20,
+                "sampler": "euler",
+                "scheduler": "simple"
+              }
+            }
+          },
+          "eval_scores": {},
+          "payload_path": null
+        },
+        {
+          "id": "969d233c",
+          "content_path": "nodes/b3b5536e/969d233c.png",
+          "created_at": "2026-05-28T12:26:56.970204+00:00",
+          "source": "uploaded",
+          "metadata": {
+            "origin": "replace"
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "5a22e9ae",
+      "weights": {},
+      "image_path": "nodes/doorbell/b3b5536e/5a22e9ae.png",
+      "resolved_prompts": {
+        "repose": "Turn the girl to face the camera directly: head and shoulders pivoted three-quarters toward the viewer with mild surprise \u2014 brows lifted, eyes wide, mouth slightly open in a small 'oh' as if she just heard a doorbell. Her hair stays in a single high ponytail at the back; her left hand still rests on the notebook holding the pencil. Do not change the sky, room, colors, lighting, or anything else \u2014 only her body, head, and expression change.",
+        "backend": "comfyui",
+        "generation_params": {
+          "workflow": "Qwen Repose GGUF",
+          "model": "qwen-image-edit-2511-Q8_0.gguf",
+          "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+          "vae": "qwen_image_vae.safetensors",
+          "sampler": "euler",
+          "scheduler": "simple",
+          "steps": 20,
+          "cfg": 4.0,
+          "denoise": 1.0,
+          "seed": 1736456081,
+          "port_values": {
+            "reference_image": "pixterm_e8049a54.png",
+            "prompt": "Turn the girl to face the camera directly: head and shoulders pivoted three-quarters toward the viewer with mild surprise \u2014 brows lifted, eyes wide, mouth slightly open in a small 'oh' as if she just heard a doorbell. Her hair stays in a single high ponytail at the back; her left hand still rests on the notebook holding the pencil. Do not change the sky, room, colors, lighting, or anything else \u2014 only her body, head, and expression change.",
+            "seed": 1736456081,
+            "cfg": 4.0,
+            "steps": 20,
+            "sampler": "euler",
+            "scheduler": "simple"
+          }
+        }
+      }
+    }
+  },
+  "edges": {
+    "faba3db5": {
+      "id": "faba3db5",
+      "source_node_id": "canon_0",
+      "target_node_id": "canon_1",
+      "prompt": "canon",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "6696a3a9",
+          "content_path": "edges/faba3db5/6696a3a9.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (canon)",
+            "kind": "ring",
+            "phase_start": 36,
+            "phase_end": 219,
+            "content_cycle": 10,
+            "source_frame_start_1idx": 11937,
+            "n_frames": 184
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "6696a3a9",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/faba3db5/6696a3a9.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (canon)",
+        "kind": "ring",
+        "phase_start": 36,
+        "phase_end": 219,
+        "content_cycle": 10,
+        "source_frame_start_1idx": 11937,
+        "n_frames": 184
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "58b6b636": {
+      "id": "58b6b636",
+      "source_node_id": "canon_1",
+      "target_node_id": "canon_2",
+      "prompt": "canon",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "b1fad88c",
+          "content_path": "edges/58b6b636/b1fad88c.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (canon)",
+            "kind": "ring",
+            "phase_start": 219,
+            "phase_end": 431,
+            "content_cycle": 10,
+            "source_frame_start_1idx": 12120,
+            "n_frames": 213
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "b1fad88c",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/58b6b636/b1fad88c.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (canon)",
+        "kind": "ring",
+        "phase_start": 219,
+        "phase_end": 431,
+        "content_cycle": 10,
+        "source_frame_start_1idx": 12120,
+        "n_frames": 213
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "73b93fe9": {
+      "id": "73b93fe9",
+      "source_node_id": "canon_2",
+      "target_node_id": "canon_3",
+      "prompt": "canon",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "95378586",
+          "content_path": "edges/73b93fe9/95378586.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (canon)",
+            "kind": "ring",
+            "phase_start": 431,
+            "phase_end": 524,
+            "content_cycle": 10,
+            "source_frame_start_1idx": 12332,
+            "n_frames": 94
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "95378586",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/73b93fe9/95378586.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (canon)",
+        "kind": "ring",
+        "phase_start": 431,
+        "phase_end": 524,
+        "content_cycle": 10,
+        "source_frame_start_1idx": 12332,
+        "n_frames": 94
+      },
+      "eval_scores": {},
+      "duration": 9.4
+    },
+    "a52777b8": {
+      "id": "a52777b8",
+      "source_node_id": "canon_3",
+      "target_node_id": "canon_4",
+      "prompt": "canon",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "8df48098",
+          "content_path": "edges/a52777b8/8df48098.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (canon)",
+            "kind": "ring",
+            "phase_start": 524,
+            "phase_end": 727,
+            "content_cycle": 10,
+            "source_frame_start_1idx": 12425,
+            "n_frames": 204
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "8df48098",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/a52777b8/8df48098.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (canon)",
+        "kind": "ring",
+        "phase_start": 524,
+        "phase_end": 727,
+        "content_cycle": 10,
+        "source_frame_start_1idx": 12425,
+        "n_frames": 204
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "86b21d52": {
+      "id": "86b21d52",
+      "source_node_id": "canon_4",
+      "target_node_id": "canon_5",
+      "prompt": "canon",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "f481b357",
+          "content_path": "edges/86b21d52/f481b357.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (canon)",
+            "kind": "ring",
+            "phase_start": 727,
+            "phase_end": 838,
+            "content_cycle": 10,
+            "source_frame_start_1idx": 12628,
+            "n_frames": 112
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "f481b357",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/86b21d52/f481b357.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (canon)",
+        "kind": "ring",
+        "phase_start": 727,
+        "phase_end": 838,
+        "content_cycle": 10,
+        "source_frame_start_1idx": 12628,
+        "n_frames": 112
+      },
+      "eval_scores": {},
+      "duration": 11.2
+    },
+    "712f6b81": {
+      "id": "712f6b81",
+      "source_node_id": "canon_5",
+      "target_node_id": "canon_6",
+      "prompt": "canon",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "2eb5098e",
+          "content_path": "edges/712f6b81/2eb5098e.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (canon)",
+            "kind": "ring",
+            "phase_start": 838,
+            "phase_end": 1000,
+            "content_cycle": 10,
+            "source_frame_start_1idx": 12739,
+            "n_frames": 163
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "2eb5098e",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/712f6b81/2eb5098e.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (canon)",
+        "kind": "ring",
+        "phase_start": 838,
+        "phase_end": 1000,
+        "content_cycle": 10,
+        "source_frame_start_1idx": 12739,
+        "n_frames": 163
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "ab8dde51": {
+      "id": "ab8dde51",
+      "source_node_id": "canon_6",
+      "target_node_id": "canon_7",
+      "prompt": "canon",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "5d8de4fe",
+          "content_path": "edges/ab8dde51/5d8de4fe.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (canon)",
+            "kind": "ring",
+            "phase_start": 1000,
+            "phase_end": 1160,
+            "content_cycle": 10,
+            "source_frame_start_1idx": 12901,
+            "n_frames": 161
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "5d8de4fe",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/ab8dde51/5d8de4fe.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (canon)",
+        "kind": "ring",
+        "phase_start": 1000,
+        "phase_end": 1160,
+        "content_cycle": 10,
+        "source_frame_start_1idx": 12901,
+        "n_frames": 161
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "808c5202": {
+      "id": "808c5202",
+      "source_node_id": "canon_7",
+      "target_node_id": "canon_0",
+      "prompt": "canon",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "66701b62",
+          "content_path": "edges/808c5202/66701b62.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (canon)",
+            "kind": "ring",
+            "phase_start": 1160,
+            "phase_end": 36,
+            "content_cycle": 10,
+            "source_frame_start_1idx": 13061,
+            "n_frames": 30
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "66701b62",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/808c5202/66701b62.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (canon)",
+        "kind": "ring",
+        "phase_start": 1160,
+        "phase_end": 36,
+        "content_cycle": 10,
+        "source_frame_start_1idx": 13061,
+        "n_frames": 30
+      },
+      "eval_scores": {},
+      "duration": 3.0
+    },
+    "48a9737c": {
+      "id": "48a9737c",
+      "source_node_id": "early_0",
+      "target_node_id": "early_1",
+      "prompt": "early",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "d6725813",
+          "content_path": "edges/48a9737c/d6725813.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (early)",
+            "kind": "ring",
+            "phase_start": 36,
+            "phase_end": 219,
+            "content_cycle": 0,
+            "source_frame_start_1idx": 37,
+            "n_frames": 184
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "d6725813",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/48a9737c/d6725813.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (early)",
+        "kind": "ring",
+        "phase_start": 36,
+        "phase_end": 219,
+        "content_cycle": 0,
+        "source_frame_start_1idx": 37,
+        "n_frames": 184
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "6704c5fc": {
+      "id": "6704c5fc",
+      "source_node_id": "early_1",
+      "target_node_id": "early_2",
+      "prompt": "early",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "7bff65e0",
+          "content_path": "edges/6704c5fc/7bff65e0.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (early)",
+            "kind": "ring",
+            "phase_start": 219,
+            "phase_end": 431,
+            "content_cycle": 0,
+            "source_frame_start_1idx": 220,
+            "n_frames": 213
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "7bff65e0",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/6704c5fc/7bff65e0.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (early)",
+        "kind": "ring",
+        "phase_start": 219,
+        "phase_end": 431,
+        "content_cycle": 0,
+        "source_frame_start_1idx": 220,
+        "n_frames": 213
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "1360559f": {
+      "id": "1360559f",
+      "source_node_id": "early_2",
+      "target_node_id": "early_3",
+      "prompt": "early",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "12402cff",
+          "content_path": "edges/1360559f/12402cff.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (early)",
+            "kind": "ring",
+            "phase_start": 431,
+            "phase_end": 524,
+            "content_cycle": 0,
+            "source_frame_start_1idx": 432,
+            "n_frames": 94
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "12402cff",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/1360559f/12402cff.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (early)",
+        "kind": "ring",
+        "phase_start": 431,
+        "phase_end": 524,
+        "content_cycle": 0,
+        "source_frame_start_1idx": 432,
+        "n_frames": 94
+      },
+      "eval_scores": {},
+      "duration": 9.4
+    },
+    "d519a2f0": {
+      "id": "d519a2f0",
+      "source_node_id": "early_3",
+      "target_node_id": "early_4",
+      "prompt": "early",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "d910546e",
+          "content_path": "edges/d519a2f0/d910546e.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (early)",
+            "kind": "ring",
+            "phase_start": 524,
+            "phase_end": 727,
+            "content_cycle": 0,
+            "source_frame_start_1idx": 525,
+            "n_frames": 204
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "d910546e",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/d519a2f0/d910546e.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (early)",
+        "kind": "ring",
+        "phase_start": 524,
+        "phase_end": 727,
+        "content_cycle": 0,
+        "source_frame_start_1idx": 525,
+        "n_frames": 204
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "d92be9da": {
+      "id": "d92be9da",
+      "source_node_id": "early_4",
+      "target_node_id": "early_5",
+      "prompt": "early",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "cb33964c",
+          "content_path": "edges/d92be9da/cb33964c.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (early)",
+            "kind": "ring",
+            "phase_start": 727,
+            "phase_end": 838,
+            "content_cycle": 0,
+            "source_frame_start_1idx": 728,
+            "n_frames": 112
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "cb33964c",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/d92be9da/cb33964c.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (early)",
+        "kind": "ring",
+        "phase_start": 727,
+        "phase_end": 838,
+        "content_cycle": 0,
+        "source_frame_start_1idx": 728,
+        "n_frames": 112
+      },
+      "eval_scores": {},
+      "duration": 11.2
+    },
+    "b698514d": {
+      "id": "b698514d",
+      "source_node_id": "early_5",
+      "target_node_id": "early_6",
+      "prompt": "early",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "6e0cef8d",
+          "content_path": "edges/b698514d/6e0cef8d.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (early)",
+            "kind": "ring",
+            "phase_start": 838,
+            "phase_end": 1000,
+            "content_cycle": 0,
+            "source_frame_start_1idx": 839,
+            "n_frames": 163
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "6e0cef8d",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/b698514d/6e0cef8d.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (early)",
+        "kind": "ring",
+        "phase_start": 838,
+        "phase_end": 1000,
+        "content_cycle": 0,
+        "source_frame_start_1idx": 839,
+        "n_frames": 163
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "5802e2d9": {
+      "id": "5802e2d9",
+      "source_node_id": "early_6",
+      "target_node_id": "early_7",
+      "prompt": "early",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "200784f4",
+          "content_path": "edges/5802e2d9/200784f4.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (early)",
+            "kind": "ring",
+            "phase_start": 1000,
+            "phase_end": 1160,
+            "content_cycle": 0,
+            "source_frame_start_1idx": 1001,
+            "n_frames": 161
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "200784f4",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/5802e2d9/200784f4.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (early)",
+        "kind": "ring",
+        "phase_start": 1000,
+        "phase_end": 1160,
+        "content_cycle": 0,
+        "source_frame_start_1idx": 1001,
+        "n_frames": 161
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "4848af9b": {
+      "id": "4848af9b",
+      "source_node_id": "early_7",
+      "target_node_id": "early_0",
+      "prompt": "early",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "9366a2db",
+          "content_path": "edges/4848af9b/9366a2db.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (early)",
+            "kind": "ring",
+            "phase_start": 1160,
+            "phase_end": 36,
+            "content_cycle": 0,
+            "source_frame_start_1idx": 1161,
+            "n_frames": 30
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "9366a2db",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/4848af9b/9366a2db.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (early)",
+        "kind": "ring",
+        "phase_start": 1160,
+        "phase_end": 36,
+        "content_cycle": 0,
+        "source_frame_start_1idx": 1161,
+        "n_frames": 30
+      },
+      "eval_scores": {},
+      "duration": 3.0
+    },
+    "ccb9b1b1": {
+      "id": "ccb9b1b1",
+      "source_node_id": "late_0",
+      "target_node_id": "late_1",
+      "prompt": "late",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "e86bde59",
+          "content_path": "edges/ccb9b1b1/e86bde59.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (late)",
+            "kind": "ring",
+            "phase_start": 36,
+            "phase_end": 219,
+            "content_cycle": 25,
+            "source_frame_start_1idx": 29787,
+            "n_frames": 184
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "e86bde59",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/ccb9b1b1/e86bde59.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (late)",
+        "kind": "ring",
+        "phase_start": 36,
+        "phase_end": 219,
+        "content_cycle": 25,
+        "source_frame_start_1idx": 29787,
+        "n_frames": 184
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "ff0f43d5": {
+      "id": "ff0f43d5",
+      "source_node_id": "late_1",
+      "target_node_id": "late_2",
+      "prompt": "late",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "164bf3f5",
+          "content_path": "edges/ff0f43d5/164bf3f5.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (late)",
+            "kind": "ring",
+            "phase_start": 219,
+            "phase_end": 431,
+            "content_cycle": 25,
+            "source_frame_start_1idx": 29970,
+            "n_frames": 213
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "164bf3f5",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/ff0f43d5/164bf3f5.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (late)",
+        "kind": "ring",
+        "phase_start": 219,
+        "phase_end": 431,
+        "content_cycle": 25,
+        "source_frame_start_1idx": 29970,
+        "n_frames": 213
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "1ee794d9": {
+      "id": "1ee794d9",
+      "source_node_id": "late_2",
+      "target_node_id": "late_3",
+      "prompt": "late",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "fca24eaa",
+          "content_path": "edges/1ee794d9/fca24eaa.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (late)",
+            "kind": "ring",
+            "phase_start": 431,
+            "phase_end": 524,
+            "content_cycle": 25,
+            "source_frame_start_1idx": 30182,
+            "n_frames": 94
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "fca24eaa",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/1ee794d9/fca24eaa.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (late)",
+        "kind": "ring",
+        "phase_start": 431,
+        "phase_end": 524,
+        "content_cycle": 25,
+        "source_frame_start_1idx": 30182,
+        "n_frames": 94
+      },
+      "eval_scores": {},
+      "duration": 9.4
+    },
+    "1a3c9fed": {
+      "id": "1a3c9fed",
+      "source_node_id": "late_3",
+      "target_node_id": "late_4",
+      "prompt": "late",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "06ea2c5a",
+          "content_path": "edges/1a3c9fed/06ea2c5a.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (late)",
+            "kind": "ring",
+            "phase_start": 524,
+            "phase_end": 727,
+            "content_cycle": 25,
+            "source_frame_start_1idx": 30275,
+            "n_frames": 204
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "06ea2c5a",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/1a3c9fed/06ea2c5a.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (late)",
+        "kind": "ring",
+        "phase_start": 524,
+        "phase_end": 727,
+        "content_cycle": 25,
+        "source_frame_start_1idx": 30275,
+        "n_frames": 204
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "738184c5": {
+      "id": "738184c5",
+      "source_node_id": "late_4",
+      "target_node_id": "late_5",
+      "prompt": "late",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "89e935ee",
+          "content_path": "edges/738184c5/89e935ee.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (late)",
+            "kind": "ring",
+            "phase_start": 727,
+            "phase_end": 838,
+            "content_cycle": 25,
+            "source_frame_start_1idx": 30478,
+            "n_frames": 112
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "89e935ee",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/738184c5/89e935ee.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (late)",
+        "kind": "ring",
+        "phase_start": 727,
+        "phase_end": 838,
+        "content_cycle": 25,
+        "source_frame_start_1idx": 30478,
+        "n_frames": 112
+      },
+      "eval_scores": {},
+      "duration": 11.2
+    },
+    "b0d0f69f": {
+      "id": "b0d0f69f",
+      "source_node_id": "late_5",
+      "target_node_id": "late_6",
+      "prompt": "late",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "f0761686",
+          "content_path": "edges/b0d0f69f/f0761686.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (late)",
+            "kind": "ring",
+            "phase_start": 838,
+            "phase_end": 1000,
+            "content_cycle": 25,
+            "source_frame_start_1idx": 30589,
+            "n_frames": 163
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "f0761686",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/b0d0f69f/f0761686.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (late)",
+        "kind": "ring",
+        "phase_start": 838,
+        "phase_end": 1000,
+        "content_cycle": 25,
+        "source_frame_start_1idx": 30589,
+        "n_frames": 163
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "8782b57a": {
+      "id": "8782b57a",
+      "source_node_id": "late_6",
+      "target_node_id": "late_7",
+      "prompt": "late",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "1d340be1",
+          "content_path": "edges/8782b57a/1d340be1.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (late)",
+            "kind": "ring",
+            "phase_start": 1000,
+            "phase_end": 1160,
+            "content_cycle": 25,
+            "source_frame_start_1idx": 30751,
+            "n_frames": 161
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "1d340be1",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/8782b57a/1d340be1.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (late)",
+        "kind": "ring",
+        "phase_start": 1000,
+        "phase_end": 1160,
+        "content_cycle": 25,
+        "source_frame_start_1idx": 30751,
+        "n_frames": 161
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "98648fc7": {
+      "id": "98648fc7",
+      "source_node_id": "late_7",
+      "target_node_id": "late_0",
+      "prompt": "late",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "5c5e008a",
+          "content_path": "edges/98648fc7/5c5e008a.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 ring (late)",
+            "kind": "ring",
+            "phase_start": 1160,
+            "phase_end": 36,
+            "content_cycle": 25,
+            "source_frame_start_1idx": 30911,
+            "n_frames": 30
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "5c5e008a",
+      "weights": {
+        "base_weight": 1.0
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/98648fc7/5c5e008a.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 ring (late)",
+        "kind": "ring",
+        "phase_start": 1160,
+        "phase_end": 36,
+        "content_cycle": 25,
+        "source_frame_start_1idx": 30911,
+        "n_frames": 30
+      },
+      "eval_scores": {},
+      "duration": 3.0
+    },
+    "c41da968": {
+      "id": "c41da968",
+      "source_node_id": "canon_0",
+      "target_node_id": "early_1",
+      "prompt": "canon->early",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "afe40d22",
+          "content_path": "edges/c41da968/afe40d22.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 swap (canon->early)",
+            "kind": "swap",
+            "phase_start": 36,
+            "phase_end": 219,
+            "content_cycle": 0,
+            "source_frame_start_1idx": 37,
+            "n_frames": 184
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "afe40d22",
+      "weights": {
+        "base_weight": 0.3
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/c41da968/afe40d22.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 swap (canon->early)",
+        "kind": "swap",
+        "phase_start": 36,
+        "phase_end": 219,
+        "content_cycle": 0,
+        "source_frame_start_1idx": 37,
+        "n_frames": 184
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "a39e9221": {
+      "id": "a39e9221",
+      "source_node_id": "early_0",
+      "target_node_id": "canon_1",
+      "prompt": "early->canon",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "b3b5e301",
+          "content_path": "edges/a39e9221/b3b5e301.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 swap (early->canon)",
+            "kind": "swap",
+            "phase_start": 36,
+            "phase_end": 219,
+            "content_cycle": 10,
+            "source_frame_start_1idx": 11937,
+            "n_frames": 184
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "b3b5e301",
+      "weights": {
+        "base_weight": 0.5
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/a39e9221/b3b5e301.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 swap (early->canon)",
+        "kind": "swap",
+        "phase_start": 36,
+        "phase_end": 219,
+        "content_cycle": 10,
+        "source_frame_start_1idx": 11937,
+        "n_frames": 184
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "49df271b": {
+      "id": "49df271b",
+      "source_node_id": "canon_0",
+      "target_node_id": "late_1",
+      "prompt": "canon->late",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "48213e1d",
+          "content_path": "edges/49df271b/48213e1d.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 swap (canon->late)",
+            "kind": "swap",
+            "phase_start": 36,
+            "phase_end": 219,
+            "content_cycle": 25,
+            "source_frame_start_1idx": 29787,
+            "n_frames": 184
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "48213e1d",
+      "weights": {
+        "base_weight": 0.3
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/49df271b/48213e1d.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 swap (canon->late)",
+        "kind": "swap",
+        "phase_start": 36,
+        "phase_end": 219,
+        "content_cycle": 25,
+        "source_frame_start_1idx": 29787,
+        "n_frames": 184
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "c7b86796": {
+      "id": "c7b86796",
+      "source_node_id": "late_0",
+      "target_node_id": "canon_1",
+      "prompt": "late->canon",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "f48bffc3",
+          "content_path": "edges/c7b86796/f48bffc3.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 swap (late->canon)",
+            "kind": "swap",
+            "phase_start": 36,
+            "phase_end": 219,
+            "content_cycle": 10,
+            "source_frame_start_1idx": 11937,
+            "n_frames": 184
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "f48bffc3",
+      "weights": {
+        "base_weight": 0.5
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/c7b86796/f48bffc3.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 swap (late->canon)",
+        "kind": "swap",
+        "phase_start": 36,
+        "phase_end": 219,
+        "content_cycle": 10,
+        "source_frame_start_1idx": 11937,
+        "n_frames": 184
+      },
+      "eval_scores": {},
+      "duration": 15.0
+    },
+    "d7ecfd4a": {
+      "id": "d7ecfd4a",
+      "source_node_id": "canon_4",
+      "target_node_id": "early_5",
+      "prompt": "canon->early",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "1e1610b6",
+          "content_path": "edges/d7ecfd4a/1e1610b6.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 swap (canon->early)",
+            "kind": "swap",
+            "phase_start": 727,
+            "phase_end": 838,
+            "content_cycle": 0,
+            "source_frame_start_1idx": 728,
+            "n_frames": 112
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "1e1610b6",
+      "weights": {
+        "base_weight": 0.3
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/d7ecfd4a/1e1610b6.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 swap (canon->early)",
+        "kind": "swap",
+        "phase_start": 727,
+        "phase_end": 838,
+        "content_cycle": 0,
+        "source_frame_start_1idx": 728,
+        "n_frames": 112
+      },
+      "eval_scores": {},
+      "duration": 11.2
+    },
+    "e746f5fb": {
+      "id": "e746f5fb",
+      "source_node_id": "early_4",
+      "target_node_id": "canon_5",
+      "prompt": "early->canon",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "b1568a4c",
+          "content_path": "edges/e746f5fb/b1568a4c.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 swap (early->canon)",
+            "kind": "swap",
+            "phase_start": 727,
+            "phase_end": 838,
+            "content_cycle": 10,
+            "source_frame_start_1idx": 12628,
+            "n_frames": 112
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "b1568a4c",
+      "weights": {
+        "base_weight": 0.5
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/e746f5fb/b1568a4c.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 swap (early->canon)",
+        "kind": "swap",
+        "phase_start": 727,
+        "phase_end": 838,
+        "content_cycle": 10,
+        "source_frame_start_1idx": 12628,
+        "n_frames": 112
+      },
+      "eval_scores": {},
+      "duration": 11.2
+    },
+    "13d74715": {
+      "id": "13d74715",
+      "source_node_id": "canon_4",
+      "target_node_id": "late_5",
+      "prompt": "canon->late",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "3623187e",
+          "content_path": "edges/13d74715/3623187e.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 swap (canon->late)",
+            "kind": "swap",
+            "phase_start": 727,
+            "phase_end": 838,
+            "content_cycle": 25,
+            "source_frame_start_1idx": 30478,
+            "n_frames": 112
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "3623187e",
+      "weights": {
+        "base_weight": 0.3
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/13d74715/3623187e.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 swap (canon->late)",
+        "kind": "swap",
+        "phase_start": 727,
+        "phase_end": 838,
+        "content_cycle": 25,
+        "source_frame_start_1idx": 30478,
+        "n_frames": 112
+      },
+      "eval_scores": {},
+      "duration": 11.2
+    },
+    "4fea353d": {
+      "id": "4fea353d",
+      "source_node_id": "late_4",
+      "target_node_id": "canon_5",
+      "prompt": "late->canon",
+      "created_at": "2026-05-24T23:28:10.084716+00:00",
+      "takes": [
+        {
+          "id": "d50bfeaa",
+          "content_path": "edges/4fea353d/d50bfeaa.mp4",
+          "created_at": "2026-05-24T23:28:10.084716+00:00",
+          "source": "imported",
+          "metadata": {
+            "induced_from": "v5 swap (late->canon)",
+            "kind": "swap",
+            "phase_start": 727,
+            "phase_end": 838,
+            "content_cycle": 10,
+            "source_frame_start_1idx": 12628,
+            "n_frames": 112
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "d50bfeaa",
+      "weights": {
+        "base_weight": 0.5
+      },
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/4fea353d/d50bfeaa.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "induced_from": "v5 swap (late->canon)",
+        "kind": "swap",
+        "phase_start": 727,
+        "phase_end": 838,
+        "content_cycle": 10,
+        "source_frame_start_1idx": 12628,
+        "n_frames": 112
+      },
+      "eval_scores": {},
+      "duration": 11.2
+    },
+    "efcb1023": {
+      "id": "efcb1023",
+      "source_node_id": "b3b5536e",
+      "target_node_id": "canon_0",
+      "prompt": "She turns her head and shoulders back to the notebook, eyes lowering to the page, expression softening. Returns to her writing posture.",
+      "created_at": "2026-05-26T10:29:46.533742+00:00",
+      "takes": [
+        {
+          "id": "353a79ba",
+          "content_path": "edges/efcb1023/353a79ba.mp4",
+          "created_at": "2026-05-26T13:50:22.380095+00:00",
+          "source": "generated",
+          "metadata": {
+            "animate": "She turns her head and shoulders back to the notebook, eyes lowering to the page, expression softening. Returns to her writing posture.",
+            "backend": "comfyui",
+            "generation_params": {
+              "workflow": "Wan 2.2 Rapid MEGA v12 FLF (VACE)",
+              "model": "wan2.2-rapid-mega-aio-v12-Q8_0.gguf",
+              "shift": 8.0,
+              "clip": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+              "vae": "wan2.1_vae.safetensors",
+              "num_frames": 64,
+              "width": 480,
+              "height": 480,
+              "sampler": "dpmpp_sde",
+              "scheduler": "beta",
+              "steps": 4,
+              "cfg": 1.0,
+              "denoise": 1.0,
+              "seed": 944848271,
+              "port_values": {
+                "start_image": "pixterm_fbbf448a.png",
+                "end_image": "pixterm_d47067f1.png",
+                "prompt": "She turns her head and shoulders back to the notebook, eyes lowering to the page, expression softening. Returns to her writing posture.",
+                "negative_prompt": "camera movement, zoom, pan, color shift, morphing, warping, distortion, blurry, face deformation, body deformation, flickering, jittering, 3d render, realistic, photo, background change, shadow morphing, size change, character shrinking, character growing, style change, smooth shading, resolution change",
+                "seed": 944848271,
+                "num_frames": 64,
+                "cfg": 1.0,
+                "steps": 4,
+                "sampler": "dpmpp_sde",
+                "scheduler": "beta",
+                "width": 480,
+                "height": 480,
+                "shift": 8.0,
+                "empty_frame_level": 0.5,
+                "strength": 1.0
+              }
+            }
+          },
+          "eval_scores": {},
+          "payload_path": null
+        },
+        {
+          "id": "6491b468",
+          "content_path": "edges/efcb1023/6491b468.mp4",
+          "created_at": "2026-05-27T02:09:50.626678+00:00",
+          "source": "generated",
+          "metadata": {
+            "workflow": "Wan 2.2 Rapid MEGA v12 FLF (VACE)",
+            "width": 832,
+            "height": 480,
+            "harvested": true
+          },
+          "eval_scores": {},
+          "payload_path": null
+        },
+        {
+          "id": "efe62ed9",
+          "content_path": "edges/efcb1023/efe62ed9.mp4",
+          "created_at": "2026-05-28T13:23:28.135514+00:00",
+          "source": "generated",
+          "metadata": {
+            "animate": "She turns her head and shoulders back to the notebook, eyes lowering to the page, expression softening. Returns to her writing posture.",
+            "backend": "comfyui",
+            "generation_params": {
+              "workflow": "Wan 2.2 Rapid MEGA v12 FLF (VACE)",
+              "model": "wan2.2-rapid-mega-aio-v12-Q8_0.gguf",
+              "shift": 8.0,
+              "clip": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+              "vae": "wan2.1_vae.safetensors",
+              "num_frames": 33,
+              "width": 832,
+              "height": 480,
+              "sampler": "dpmpp_sde",
+              "scheduler": "beta",
+              "steps": 4,
+              "cfg": 1.0,
+              "denoise": 1.0,
+              "seed": 1323150909,
+              "port_values": {
+                "start_image": "pixterm_b3d784e2.png",
+                "end_image": "pixterm_bd8e0adb.png",
+                "prompt": "She turns her head and shoulders back to the notebook, eyes lowering to the page, expression softening. Returns to her writing posture.",
+                "negative_prompt": "camera movement, zoom, pan, color shift, morphing, warping, distortion, blurry, face deformation, body deformation, flickering, jittering, 3d render, realistic, photo, background change, shadow morphing, size change, character shrinking, character growing, style change, smooth shading, resolution change",
+                "seed": 1323150909,
+                "num_frames": 33,
+                "cfg": 1.0,
+                "steps": 4,
+                "sampler": "dpmpp_sde",
+                "scheduler": "beta",
+                "width": 832,
+                "height": 480,
+                "shift": 8.0,
+                "empty_frame_level": 0.5,
+                "strength": 1.0
+              }
+            }
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "efe62ed9",
+      "weights": {},
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/efcb1023/efe62ed9.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "animate": "She turns her head and shoulders back to the notebook, eyes lowering to the page, expression softening. Returns to her writing posture.",
+        "backend": "comfyui",
+        "generation_params": {
+          "workflow": "Wan 2.2 Rapid MEGA v12 FLF (VACE)",
+          "model": "wan2.2-rapid-mega-aio-v12-Q8_0.gguf",
+          "shift": 8.0,
+          "clip": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+          "vae": "wan2.1_vae.safetensors",
+          "num_frames": 33,
+          "width": 832,
+          "height": 480,
+          "sampler": "dpmpp_sde",
+          "scheduler": "beta",
+          "steps": 4,
+          "cfg": 1.0,
+          "denoise": 1.0,
+          "seed": 1323150909,
+          "port_values": {
+            "start_image": "pixterm_b3d784e2.png",
+            "end_image": "pixterm_bd8e0adb.png",
+            "prompt": "She turns her head and shoulders back to the notebook, eyes lowering to the page, expression softening. Returns to her writing posture.",
+            "negative_prompt": "camera movement, zoom, pan, color shift, morphing, warping, distortion, blurry, face deformation, body deformation, flickering, jittering, 3d render, realistic, photo, background change, shadow morphing, size change, character shrinking, character growing, style change, smooth shading, resolution change",
+            "seed": 1323150909,
+            "num_frames": 33,
+            "cfg": 1.0,
+            "steps": 4,
+            "sampler": "dpmpp_sde",
+            "scheduler": "beta",
+            "width": 832,
+            "height": 480,
+            "shift": 8.0,
+            "empty_frame_level": 0.5,
+            "strength": 1.0
+          }
+        }
+      },
+      "eval_scores": {},
+      "duration": 2.0
+    },
+    "a77d1622": {
+      "id": "a77d1622",
+      "source_node_id": "canon_0",
+      "target_node_id": "b3b5536e",
+      "prompt": "She turns her head and shoulders to her right, looking up from the notebook and over toward the viewer. Brows lift, eyes widen. Her mouth stays closed during the turn and only parts at the very end into a small surprised \"oh\". She settles into a paused look-over pose facing the camera. Lips do not move during the turn \u2014 no talking, no chewing, no mouth flapping.",
+      "created_at": "2026-05-27T12:49:55.575279+00:00",
+      "takes": [
+        {
+          "id": "954c955a",
+          "content_path": "edges/a77d1622/954c955a.mp4",
+          "created_at": "2026-05-28T12:30:51.631581+00:00",
+          "source": "generated",
+          "metadata": {
+            "animate": "She turns her head and shoulders to her right, looking up from the notebook and over toward the viewer. Brows lift, eyes widen. Her mouth stays closed during the turn and only parts at the very end into a small surprised \"oh\". She settles into a paused look-over pose facing the camera. Lips do not move during the turn \u2014 no talking, no chewing, no mouth flapping.",
+            "backend": "comfyui",
+            "generation_params": {
+              "workflow": "Wan 2.2 Rapid MEGA v12 FLF (VACE)",
+              "model": "wan2.2-rapid-mega-aio-v12-Q8_0.gguf",
+              "shift": 8.0,
+              "clip": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+              "vae": "wan2.1_vae.safetensors",
+              "num_frames": 33,
+              "width": 480,
+              "height": 480,
+              "sampler": "dpmpp_sde",
+              "scheduler": "beta",
+              "steps": 4,
+              "cfg": 1.0,
+              "denoise": 1.0,
+              "seed": 2308689280,
+              "port_values": {
+                "start_image": "pixterm_e4adbca9.png",
+                "end_image": "pixterm_2182b1fd.png",
+                "prompt": "She turns her head and shoulders to her right, looking up from the notebook and over toward the viewer. Brows lift, eyes widen. Her mouth stays closed during the turn and only parts at the very end into a small surprised \"oh\". She settles into a paused look-over pose facing the camera. Lips do not move during the turn \u2014 no talking, no chewing, no mouth flapping.",
+                "negative_prompt": "camera movement, zoom, pan, color shift, morphing, warping, distortion, blurry, face deformation, body deformation, flickering, jittering, 3d render, realistic, photo, background change, shadow morphing, size change, character shrinking, character growing, style change, smooth shading, resolution change",
+                "seed": 2308689280,
+                "num_frames": 33,
+                "cfg": 1.0,
+                "steps": 4,
+                "sampler": "dpmpp_sde",
+                "scheduler": "beta",
+                "width": 480,
+                "height": 480,
+                "shift": 8.0,
+                "empty_frame_level": 0.5,
+                "strength": 1.0
+              }
+            }
+          },
+          "eval_scores": {},
+          "payload_path": null
+        },
+        {
+          "id": "7f130604",
+          "content_path": "edges/a77d1622/7f130604.mp4",
+          "created_at": "2026-05-28T13:14:51.148908+00:00",
+          "source": "generated",
+          "metadata": {
+            "animate": "She turns her head and shoulders to her right, looking up from the notebook and over toward the viewer. Brows lift, eyes widen. Her mouth stays closed during the turn and only parts at the very end into a small surprised \"oh\". She settles into a paused look-over pose facing the camera. Lips do not move during the turn \u2014 no talking, no chewing, no mouth flapping.",
+            "backend": "comfyui",
+            "generation_params": {
+              "workflow": "Wan 2.2 Rapid MEGA v12 FLF (VACE)",
+              "model": "wan2.2-rapid-mega-aio-v12-Q8_0.gguf",
+              "shift": 8.0,
+              "clip": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+              "vae": "wan2.1_vae.safetensors",
+              "num_frames": 33,
+              "width": 832,
+              "height": 480,
+              "sampler": "dpmpp_sde",
+              "scheduler": "beta",
+              "steps": 4,
+              "cfg": 1.0,
+              "denoise": 1.0,
+              "seed": 3974016122,
+              "port_values": {
+                "start_image": "pixterm_16946a58.png",
+                "end_image": "pixterm_829e9ebd.png",
+                "prompt": "She turns her head and shoulders to her right, looking up from the notebook and over toward the viewer. Brows lift, eyes widen. Her mouth stays closed during the turn and only parts at the very end into a small surprised \"oh\". She settles into a paused look-over pose facing the camera. Lips do not move during the turn \u2014 no talking, no chewing, no mouth flapping.",
+                "negative_prompt": "camera movement, zoom, pan, color shift, morphing, warping, distortion, blurry, face deformation, body deformation, flickering, jittering, 3d render, realistic, photo, background change, shadow morphing, size change, character shrinking, character growing, style change, smooth shading, resolution change",
+                "seed": 3974016122,
+                "num_frames": 33,
+                "cfg": 1.0,
+                "steps": 4,
+                "sampler": "dpmpp_sde",
+                "scheduler": "beta",
+                "width": 832,
+                "height": 480,
+                "shift": 8.0,
+                "empty_frame_level": 0.5,
+                "strength": 1.0
+              }
+            }
+          },
+          "eval_scores": {},
+          "payload_path": null
+        }
+      ],
+      "current_take_id": "7f130604",
+      "weights": {},
+      "weight_expr": null,
+      "on_traverse": {},
+      "video_path": "edges/a77d1622/7f130604.mp4",
+      "payload_path": null,
+      "resolved_prompts": {
+        "animate": "She turns her head and shoulders to her right, looking up from the notebook and over toward the viewer. Brows lift, eyes widen. Her mouth stays closed during the turn and only parts at the very end into a small surprised \"oh\". She settles into a paused look-over pose facing the camera. Lips do not move during the turn \u2014 no talking, no chewing, no mouth flapping.",
+        "backend": "comfyui",
+        "generation_params": {
+          "workflow": "Wan 2.2 Rapid MEGA v12 FLF (VACE)",
+          "model": "wan2.2-rapid-mega-aio-v12-Q8_0.gguf",
+          "shift": 8.0,
+          "clip": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+          "vae": "wan2.1_vae.safetensors",
+          "num_frames": 33,
+          "width": 832,
+          "height": 480,
+          "sampler": "dpmpp_sde",
+          "scheduler": "beta",
+          "steps": 4,
+          "cfg": 1.0,
+          "denoise": 1.0,
+          "seed": 3974016122,
+          "port_values": {
+            "start_image": "pixterm_16946a58.png",
+            "end_image": "pixterm_829e9ebd.png",
+            "prompt": "She turns her head and shoulders to her right, looking up from the notebook and over toward the viewer. Brows lift, eyes widen. Her mouth stays closed during the turn and only parts at the very end into a small surprised \"oh\". She settles into a paused look-over pose facing the camera. Lips do not move during the turn \u2014 no talking, no chewing, no mouth flapping.",
+            "negative_prompt": "camera movement, zoom, pan, color shift, morphing, warping, distortion, blurry, face deformation, body deformation, flickering, jittering, 3d render, realistic, photo, background change, shadow morphing, size change, character shrinking, character growing, style change, smooth shading, resolution change",
+            "seed": 3974016122,
+            "num_frames": 33,
+            "cfg": 1.0,
+            "steps": 4,
+            "sampler": "dpmpp_sde",
+            "scheduler": "beta",
+            "width": 832,
+            "height": 480,
+            "shift": 8.0,
+            "empty_frame_level": 0.5,
+            "strength": 1.0
+          }
+        }
+      },
+      "eval_scores": {},
+      "duration": 2.0
+    }
+  },
+  "render_options": {
+    "width": 60,
+    "height": 0,
+    "colors": 48,
+    "mode": "quad",
+    "crop": true,
+    "bounce": true,
+    "fps": 16,
+    "duration": 4.0
+  },
+  "created_at": "2026-05-24T23:28:10.084716+00:00",
+  "backend": "comfyui",
+  "seed_image_path": "",
+  "root_pose_id": "canon_0",
+  "schema_version": 2,
+  "description": "lofi-girl pose graph v5: three parallel loops. Canonical loop (cycle 10, source minutes 20-50 of 60), early-variant loop (cycle 0, minutes 0-16), late-variant loop (cycle 25, minutes 50-60). 24 nodes (8 junctions per loop), 32 edges (24 ring + 8 swap). All edges are real contiguous source clips. Junctions placed at low-spread phases where all 30 source cycles agree visually, so cross-loop swaps are imperceptible.",
+  "tags": {
+    "loop_canon": [
+      "canon_0",
+      "canon_1",
+      "canon_2",
+      "canon_3",
+      "canon_4",
+      "canon_5",
+      "canon_6",
+      "canon_7"
+    ],
+    "cluster_1": [
+      "canon_0",
+      "canon_2",
+      "canon_6",
+      "early_0",
+      "early_2",
+      "early_6",
+      "late_0",
+      "late_2",
+      "late_6"
+    ],
+    "cluster_6": [
+      "canon_1",
+      "canon_5",
+      "early_1",
+      "early_5",
+      "late_1",
+      "late_5"
+    ],
+    "cluster_4": [
+      "canon_3",
+      "canon_4",
+      "canon_7",
+      "early_3",
+      "early_4",
+      "early_7",
+      "late_3",
+      "late_4",
+      "late_7"
+    ],
+    "loop_early": [
+      "early_0",
+      "early_1",
+      "early_2",
+      "early_3",
+      "early_4",
+      "early_5",
+      "early_6",
+      "early_7"
+    ],
+    "loop_late": [
+      "late_0",
+      "late_1",
+      "late_2",
+      "late_3",
+      "late_4",
+      "late_5",
+      "late_6",
+      "late_7"
+    ],
+    "all": [
+      "canon_0",
+      "canon_1",
+      "canon_2",
+      "canon_3",
+      "canon_4",
+      "canon_5",
+      "canon_6",
+      "canon_7",
+      "early_0",
+      "early_1",
+      "early_2",
+      "early_3",
+      "early_4",
+      "early_5",
+      "early_6",
+      "early_7",
+      "late_0",
+      "late_1",
+      "late_2",
+      "late_3",
+      "late_4",
+      "late_5",
+      "late_6",
+      "late_7"
+    ],
+    "inbox": [
+      "b3b5536e"
+    ],
+    "reaction": [
+      "b3b5536e"
+    ]
+  },
+  "weights": {
+    "pc1": {
+      "name": "pc1",
+      "kind": "static",
+      "min": -1.2173560857772827,
+      "max": 1.7449886798858643,
+      "default": 0.0
+    },
+    "pc2": {
+      "name": "pc2",
+      "kind": "static",
+      "min": -0.9088948965072632,
+      "max": 0.6964194178581238,
+      "default": 0.0
+    },
+    "base_weight": {
+      "name": "base_weight",
+      "kind": "static",
+      "min": 0.0,
+      "max": 100.0,
+      "default": 1.0
+    },
+    "cooldown_seconds": {
+      "name": "cooldown_seconds",
+      "kind": "static",
+      "min": 0.0,
+      "max": 3600.0,
+      "default": 0.0
+    }
+  }
+}

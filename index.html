@@ -3,23 +3,113 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>storymodeplayer</title>
+<title>Storymode Player — pixterm character demos</title>
 <style>
-  body { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; background: #111; color: #eee; padding: 2rem; max-width: 40rem; margin: 0 auto; line-height: 1.5; }
-  h1 { font-size: 1.2rem; margin: 0 0 1rem; color: #fff; }
-  a { color: #6cc; text-decoration: none; }
-  a:hover { text-decoration: underline; }
-  ul { padding-left: 1.2rem; }
-  .meta { color: #888; font-size: 0.85rem; margin-top: 2rem; }
+  :root {
+    --bg: #0f1115;
+    --fg: #f3f4f7;
+    --muted: #9aa0ac;
+    --card: #181b21;
+    --card-hover: #1f232b;
+    --border: #262b34;
+    --accent: #6cc7c2;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    line-height: 1.55;
+  }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 4rem 1.5rem 3rem; }
+  header h1 { font-size: 1.7rem; margin: 0 0 0.4rem; letter-spacing: -0.01em; }
+  header p { margin: 0; color: var(--muted); max-width: 52ch; }
+  header p a { color: var(--accent); text-decoration: none; }
+  header p a:hover { text-decoration: underline; }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.1rem;
+    margin: 2.5rem 0 0;
+  }
+  .card {
+    display: flex;
+    flex-direction: column;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.14s ease, background 0.14s ease, border-color 0.14s ease;
+  }
+  .card:hover {
+    transform: translateY(-3px);
+    background: var(--card-hover);
+    border-color: #343b46;
+  }
+  .thumb {
+    aspect-ratio: 1 / 1;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .thumb img { width: 100%; height: 100%; object-fit: contain; }
+  .body { padding: 0.9rem 1rem 1.1rem; }
+  .body h2 { font-size: 1.05rem; margin: 0 0 0.2rem; }
+  .body p { margin: 0; font-size: 0.85rem; color: var(--muted); }
+  .open { margin-top: 0.6rem; font-size: 0.8rem; color: var(--accent); }
+
+  footer { margin-top: 3rem; color: var(--muted); font-size: 0.82rem; }
+  footer a { color: var(--accent); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
 </style>
 </head>
 <body>
-<h1>storymodeplayer</h1>
-<p>Pixterm character demos — dimensional-state-graph runtime in the browser.</p>
-<p>Available characters:</p>
-<ul>
-  <li><a href="./flf_elf_girl/">flf_elf_girl</a></li>
-</ul>
-<p class="meta">Built from <a href="https://github.com/Yuncun/pixterm-engine">pixterm-engine</a>. Source for this site at <a href="https://github.com/Yuncun/storymodeplayer">storymodeplayer</a>.</p>
+<div class="wrap">
+  <header>
+    <h1>Storymode Player</h1>
+    <p>
+      Interactive character animations that run in your browser. Each character
+      is a graph of poses joined by short clips; the engine walks the graph,
+      playing one clip after another for continuous motion. Built with
+      <a href="https://github.com/Yuncun/pixterm-engine">pixterm</a>.
+    </p>
+  </header>
+
+  <div class="grid">
+    <a class="card" href="./flf_elf_girl/">
+      <div class="thumb"><img src="./flf_elf_girl/nodes/73139d20/1683a726.png" alt="flf_elf_girl" /></div>
+      <div class="body">
+        <h2>flf_elf_girl</h2>
+        <div class="open">Open ▸</div>
+      </div>
+    </a>
+
+    <a class="card" href="./lofi-girl-induced-v5/">
+      <div class="thumb"><img src="./lofi-girl-induced-v5/nodes/canon/canon_0/581bb821.png" alt="lofi-girl-induced-v5" /></div>
+      <div class="body">
+        <h2>lofi-girl-induced-v5</h2>
+        <div class="open">Open ▸</div>
+      </div>
+    </a>
+
+    <a class="card" href="./elf_girl/">
+      <div class="thumb"><img src="./elf_girl/nodes/0cf5ab6f/e9a04b44.png" alt="elf girl" /></div>
+      <div class="body">
+        <h2>elf girl</h2>
+        <div class="open">Open ▸</div>
+      </div>
+    </a>
+  </div>
+
+  <footer>
+    Built with <a href="https://github.com/Yuncun/pixterm-engine">pixterm-engine</a>.
+    Source for this site: <a href="https://github.com/Yuncun/storymodeplayer">storymodeplayer</a>.
+  </footer>
+</div>
 </body>
 </html>
