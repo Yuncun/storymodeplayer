@@ -43,7 +43,8 @@
         "cluster_id": 1,
         "source_frame_1idx": 11937,
         "phase_spread": 0.005776941776275635
-      }
+      },
+      "folder": "canon"
     },
     "canon_1": {
       "id": "canon_1",
@@ -87,7 +88,8 @@
         "cluster_id": 6,
         "source_frame_1idx": 12120,
         "phase_spread": 0.005704104900360107
-      }
+      },
+      "folder": "canon"
     },
     "canon_2": {
       "id": "canon_2",
@@ -131,7 +133,8 @@
         "cluster_id": 1,
         "source_frame_1idx": 12332,
         "phase_spread": 0.0048940181732177734
-      }
+      },
+      "folder": "canon"
     },
     "canon_3": {
       "id": "canon_3",
@@ -175,7 +178,8 @@
         "cluster_id": 4,
         "source_frame_1idx": 12425,
         "phase_spread": 0.00540393590927124
-      }
+      },
+      "folder": "canon"
     },
     "canon_4": {
       "id": "canon_4",
@@ -219,7 +223,8 @@
         "cluster_id": 4,
         "source_frame_1idx": 12628,
         "phase_spread": 0.005884826183319092
-      }
+      },
+      "folder": "canon"
     },
     "canon_5": {
       "id": "canon_5",
@@ -263,7 +268,8 @@
         "cluster_id": 6,
         "source_frame_1idx": 12739,
         "phase_spread": 0.0065315961837768555
-      }
+      },
+      "folder": "canon"
     },
     "canon_6": {
       "id": "canon_6",
@@ -307,7 +313,8 @@
         "cluster_id": 1,
         "source_frame_1idx": 12901,
         "phase_spread": 0.006040990352630615
-      }
+      },
+      "folder": "canon"
     },
     "canon_7": {
       "id": "canon_7",
@@ -351,7 +358,8 @@
         "cluster_id": 4,
         "source_frame_1idx": 13061,
         "phase_spread": 0.006875514984130859
-      }
+      },
+      "folder": "canon"
     },
     "early_0": {
       "id": "early_0",
@@ -395,7 +403,8 @@
         "cluster_id": 1,
         "source_frame_1idx": 37,
         "phase_spread": 0.005776941776275635
-      }
+      },
+      "folder": "early"
     },
     "early_1": {
       "id": "early_1",
@@ -439,7 +448,8 @@
         "cluster_id": 6,
         "source_frame_1idx": 220,
         "phase_spread": 0.005704104900360107
-      }
+      },
+      "folder": "early"
     },
     "early_2": {
       "id": "early_2",
@@ -483,7 +493,8 @@
         "cluster_id": 1,
         "source_frame_1idx": 432,
         "phase_spread": 0.0048940181732177734
-      }
+      },
+      "folder": "early"
     },
     "early_3": {
       "id": "early_3",
@@ -527,7 +538,8 @@
         "cluster_id": 4,
         "source_frame_1idx": 525,
         "phase_spread": 0.00540393590927124
-      }
+      },
+      "folder": "early"
     },
     "early_4": {
       "id": "early_4",
@@ -571,7 +583,8 @@
         "cluster_id": 4,
         "source_frame_1idx": 728,
         "phase_spread": 0.005884826183319092
-      }
+      },
+      "folder": "early"
     },
     "early_5": {
       "id": "early_5",
@@ -615,7 +628,8 @@
         "cluster_id": 6,
         "source_frame_1idx": 839,
         "phase_spread": 0.0065315961837768555
-      }
+      },
+      "folder": "early"
     },
     "early_6": {
       "id": "early_6",
@@ -659,7 +673,8 @@
         "cluster_id": 1,
         "source_frame_1idx": 1001,
         "phase_spread": 0.006040990352630615
-      }
+      },
+      "folder": "early"
     },
     "early_7": {
       "id": "early_7",
@@ -703,7 +718,8 @@
         "cluster_id": 4,
         "source_frame_1idx": 1161,
         "phase_spread": 0.006875514984130859
-      }
+      },
+      "folder": "early"
     },
     "late_0": {
       "id": "late_0",
@@ -747,7 +763,8 @@
         "cluster_id": 1,
         "source_frame_1idx": 29787,
         "phase_spread": 0.005776941776275635
-      }
+      },
+      "folder": "late"
     },
     "late_1": {
       "id": "late_1",
@@ -791,7 +808,8 @@
         "cluster_id": 6,
         "source_frame_1idx": 29970,
         "phase_spread": 0.005704104900360107
-      }
+      },
+      "folder": "late"
     },
     "late_2": {
       "id": "late_2",
@@ -835,7 +853,8 @@
         "cluster_id": 1,
         "source_frame_1idx": 30182,
         "phase_spread": 0.0048940181732177734
-      }
+      },
+      "folder": "late"
     },
     "late_3": {
       "id": "late_3",
@@ -879,7 +898,8 @@
         "cluster_id": 4,
         "source_frame_1idx": 30275,
         "phase_spread": 0.00540393590927124
-      }
+      },
+      "folder": "late"
     },
     "late_4": {
       "id": "late_4",
@@ -923,7 +943,8 @@
         "cluster_id": 4,
         "source_frame_1idx": 30478,
         "phase_spread": 0.005884826183319092
-      }
+      },
+      "folder": "late"
     },
     "late_5": {
       "id": "late_5",
@@ -967,7 +988,8 @@
         "cluster_id": 6,
         "source_frame_1idx": 30589,
         "phase_spread": 0.0065315961837768555
-      }
+      },
+      "folder": "late"
     },
     "late_6": {
       "id": "late_6",
@@ -1011,7 +1033,8 @@
         "cluster_id": 1,
         "source_frame_1idx": 30751,
         "phase_spread": 0.006040990352630615
-      }
+      },
+      "folder": "late"
     },
     "late_7": {
       "id": "late_7",
@@ -1055,7 +1078,8 @@
         "cluster_id": 4,
         "source_frame_1idx": 30911,
         "phase_spread": 0.006875514984130859
-      }
+      },
+      "folder": "late"
     },
     "b3b5536e": {
       "id": "b3b5536e",
@@ -1137,7 +1161,8 @@
             "scheduler": "simple"
           }
         }
-      }
+      },
+      "folder": "doorbell"
     }
   },
   "edges": {
@@ -2898,7 +2923,7 @@
   "backend": "comfyui",
   "seed_image_path": "",
   "root_pose_id": "canon_0",
-  "schema_version": 2,
+  "schema_version": 3,
   "description": "lofi-girl pose graph v5: three parallel loops. Canonical loop (cycle 10, source minutes 20-50 of 60), early-variant loop (cycle 0, minutes 0-16), late-variant loop (cycle 25, minutes 50-60). 24 nodes (8 junctions per loop), 32 edges (24 ring + 8 swap). All edges are real contiguous source clips. Junctions placed at low-spread phases where all 30 source cycles agree visually, so cross-loop swaps are imperceptible.",
   "tags": {
     "loop_canon": [
@@ -3022,6 +3047,48 @@
       "min": 0.0,
       "max": 3600.0,
       "default": 0.0
+    }
+  },
+  "folders": {
+    "canon": {
+      "shape": "ring",
+      "center": [
+        0.0,
+        -0.0
+      ],
+      "order_by": "junction_idx",
+      "collapsed": false,
+      "radius": 350.0
+    },
+    "doorbell": {
+      "shape": "ring",
+      "center": [
+        0.0,
+        -900.0
+      ],
+      "order_by": "_index",
+      "collapsed": false,
+      "radius": 0.0
+    },
+    "early": {
+      "shape": "ring",
+      "center": [
+        -1100.0,
+        0.0
+      ],
+      "order_by": "junction_idx",
+      "collapsed": false,
+      "radius": 350.0
+    },
+    "late": {
+      "shape": "ring",
+      "center": [
+        1100.0,
+        0.0
+      ],
+      "order_by": "junction_idx",
+      "collapsed": true,
+      "radius": 350.0
     }
   }
 }
